@@ -1,2 +1,2 @@
-# learnig-git
+# learning-git
 A small repo for learning purposes.
